@@ -1,0 +1,20 @@
+﻿  testmain.c
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(39,32): warning C4013: “realloc”未定义；假设外部返回 int
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(54,31): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(56,8): warning C4013: “memset”未定义；假设外部返回 int
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(95,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(102,21): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(107,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(130,18): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(149,12): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(161,50): warning C4029: 声明的形参表不同于定义
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(163,2): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(167,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(175,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(177,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(202,6): warning C4013: “free”未定义；假设外部返回 int
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(207,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(210,26): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\testmain.c(117,8): warning C4013: “system”未定义；假设外部返回 int
+C:\Users\王咯咯\source\repos\动态顺序表\动态顺序表\SeqList.h(45): warning C4715: “bool_inc”: 不是所有的控件路径都返回值
+  动态顺序表.vcxproj -> C:\Users\王咯咯\source\repos\动态顺序表\Debug\动态顺序表.exe
